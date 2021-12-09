@@ -1,4 +1,4 @@
-# Storing-Preferences-4-Delphi
+# Storing Preferences 4 Delphi
 It provides class based storage. Supports storing nested classes and their properties.
 
 <h3>Auto Creation & Destruction</h3>
